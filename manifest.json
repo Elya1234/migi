@@ -5,7 +5,7 @@
   "start_url": "./index.html",
   "display": "standalone",
   "background": "linear-gradient(45deg,rgba(0, 255, 242, 0.979),rgb(240, 255, 255),rgba(5, 224, 133, 0.582))",
-  "theme_color": "black",
+  "theme_color": "white",
   "icons": [{
       "src": "https://th.bing.com/th/id/OIP.aF2ZuaYpAmTvkCmjoCcfNAHaEG?pid=ImgDet&rs=1",
         "sizes": "128x128",
